@@ -14,13 +14,13 @@
 
   ## Installation:
   ### You must install the following for this app to function:
-  ### download files and run npm install
+  ### download files, run npm install, enjoy
 
   ## Usage:
-  ### That's kind of the description
+  ### It uses graphql and apollo to do the things in the description section
 
   ## Contributors:
-  ### be cool to each other
+  ### be kind to each other
 
   ## Tests:
   ### Run the following commands in your terminal to test this app:
